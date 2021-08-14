@@ -1,7 +1,7 @@
 const ourStorySidebar = [{ text: 'Out Story', link: "/about/out-story" }]
 
 module.exports = {
-    base: '/vitepress-practice.git/',
+    base: 'docs/.vitepress/config.js',
     title: "Vitepress Tutorial",
     themeConfig: {
         nav: [
